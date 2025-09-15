@@ -15,4 +15,8 @@ A sleek and responsive Graphical User Interface (GUI) built with Python and Ttkb
     ```
 3.  Use the buttons to control the drone's flight and the slider to adjust its speed.
 
+## Preview
+> Preview: Windows
+> 
+> ![Screenshot Windows](Resources/gui_interface.png)
 
